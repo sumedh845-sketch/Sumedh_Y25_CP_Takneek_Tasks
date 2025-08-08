@@ -1,0 +1,2 @@
+The first instinct is to write simply int Y/X but this fails when Y%X=0. Hence we will decrease the num by 1 to solve this, so that even when both are perfectly
+divisible the formula works for all X,Y belongs to natural numbers.
