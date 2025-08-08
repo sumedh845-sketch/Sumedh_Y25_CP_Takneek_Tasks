@@ -1,0 +1,3 @@
+As we want to maximize the number of happy people, and the shirts can be converted from larger to smaller and not in opposite direction,we will start by
+distributing from the largest tshirt to the smallest tshirts.first we distribute the larger shirts according the number of shirts available and the number 
+of people and then we convert the remaining to smaller ones and so on till we reach the smallest size.
